@@ -1,0 +1,6 @@
+{
+  "name": "ECORA — Plantable Biodegradable Straws",
+  "description": "Discover ECORA's plantable, biodegradable straws. An eco-friendly alternative to single-use plastics designed to inspire greener choices and sustainable growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
